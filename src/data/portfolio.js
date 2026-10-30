@@ -40,7 +40,7 @@ export const softwareProjects = [
     description:
       'An experimental voice-enabled assistant exploring how software, AI services and connected hardware can work together. The backend brings together speech transcription, AI responses, text-to-speech, weather data and device-related endpoints.',
     stack: ['Node.js', 'Gemini API', 'Deepgram', 'Open-Meteo', 'ESP32 exploration'],
-    status: 'In development',
+    status: 'Completed',
     image: '',
     imageAlt: 'Authentic screenshot of the Nebula project interface',
     visual: 'nebula',
