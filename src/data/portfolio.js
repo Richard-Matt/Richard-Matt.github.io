@@ -6,8 +6,8 @@ export const profile = {
   firstName: 'Richard',
   role: 'Computer Science student',
   university: 'Vellore Institute of Technology, Vellore',
-  location: 'Vellore, India',
-  email: '', // Add a professional email only if you want it publicly visible.
+  location: 'Kerala, India',
+  email: 'richardmattjacob@gmail.com', // Add a professional email only if you want it publicly visible.
   github: '', // Example: https://github.com/your-username
   linkedin: '', // Add your profile URL if you have one.
   resume: '', // Optional PDF URL. Leave empty until you have a final resume.
