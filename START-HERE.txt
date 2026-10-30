@@ -1,0 +1,28 @@
+START HERE — YOUR PORTFOLIO
+
+1) Open src/data/portfolio.js and edit your name and any public profile links.
+   Leave email, GitHub and LinkedIn blank until you are sure you want them public.
+
+2) Check every project description and status. Add only verified achievements.
+
+3) Create a PUBLIC GitHub repository named exactly:
+   YOUR-GITHUB-USERNAME.github.io
+
+4) Extract this ZIP. Upload the CONTENTS of the richard-portfolio folder to the
+   ROOT of that repository. package.json, index.html, src/ and .github/ should
+   sit directly in the repository root.
+
+5) On GitHub, open Settings > Pages. Under Build and deployment, set Source to
+   GitHub Actions.
+
+6) Open Actions and wait for "Deploy portfolio to GitHub Pages" to finish.
+   Your link will be:
+   https://YOUR-GITHUB-USERNAME.github.io/
+
+7) Open the link on your phone and laptop. The site is public, so do not put
+   private details, passwords, student IDs, home address or personal phone
+   numbers in the repository or website.
+
+The site contains no AI-generated or stock images. The project-card motifs are
+CSS illustrations, not fake screenshots. Replace them only with authentic
+screenshots or photographs of your own work.
