@@ -145,7 +145,10 @@ button:focus-visible, a:focus-visible { outline: 2px solid var(--green); outline
 .authenticity-note { margin: 19px 0 0; color: var(--slate); font-size: 10px; line-height: 1.7; }.authenticity-note span { color: var(--green); }
 
 .hardware-section { padding-top: 80px; }
-.hardware-grid { align-items: center; }
+.hardware-grid {
+  grid-template-columns: 1fr;
+  align-items: center;
+}
 .hardware-copy .lead-copy { max-width: 440px; }
 .hardware-specimen { min-width: 0; }
 .specimen-frame { padding: 16px; border: 1px solid rgba(136,146,176,.25); background: rgba(17,34,64,.32); }
