@@ -69,13 +69,13 @@ function App() {
           <div className="about-grid">
             <Reveal className="about-copy">
               <p className="lead-copy">
-                I like understanding how things work — and then seeing what I can make with that understanding.
+                I like understanding how things work and then seeing what I can make with that understanding.
               </p>
               <p>
-                I'm a first-year Computer Science and Engineering student at VIT Vellore. I'm building my foundations in programming and problem-solving while exploring the connections between software, artificial intelligence and hardware.
+                I'm a first year Computer Science and Engineering student at VIT Vellore. I'm building my foundations in programming and problem-solving while exploring the connections between software, artificial intelligence and hardware.
               </p>
               <p>
-                I enjoy learning by trying things out: writing code, connecting services, experimenting with electronics and figuring out why something does — or doesn't — work. I'm still early in the journey, which is exactly what makes it exciting.
+                I enjoy learning by trying things out: writing code, connecting services, experimenting with electronics and figuring out why something does or doesn't work. I'm still early in the journey, which is exactly what makes it exciting.
               </p>
               <div className="about-links">
                 <ExternalLink href={profile.github}>GitHub</ExternalLink>
