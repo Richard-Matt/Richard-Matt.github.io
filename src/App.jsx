@@ -157,8 +157,7 @@ function App() {
               </Reveal>
             ))}
           </div>
-          <p className="authenticity-note"><span aria-hidden="true">✳</span> Project visuals are intentionally illustrative until I add real screenshots of my own work.</p>
-        </section>
+          </section>
 
         <section className="content-section hardware-section" id="hardware">
           <SectionHeading number="04" eyebrow="BEYOND THE SCREEN">Hardware & experiments</SectionHeading>
@@ -189,9 +188,6 @@ function App() {
                     </g>
                   </svg>
                 </div>
-                <div className="specimen-label"><strong>Connected systems</strong><span>Curiosity → prototype → learning</span></div>
-              </div>
-              <span className="hardware-caption">A visual motif — not a photograph of a completed circuit.</span>
             </Reveal>
           </div>
         </section>
