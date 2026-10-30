@@ -28,7 +28,6 @@ export const skills = [
   { name: 'MySQL', note: 'Database fundamentals' },
   { name: 'GitHub', note: 'Version control' },
   { name: 'VS Code', note: 'Development environment' },
-  { name: 'PyCharm', note: 'Development environment' },
   { name: 'LeetCode', note: 'Coding practice' },
   { name: 'HTML', note: 'Web development' },
 ];
