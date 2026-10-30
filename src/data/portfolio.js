@@ -8,8 +8,8 @@ export const profile = {
   university: 'Vellore Institute of Technology, Vellore',
   location: 'Kerala, India',
   email: 'richardmattjacob@gmail.com', // Add a professional email only if you want it publicly visible.
-  github: '', // Example: https://github.com/your-username
-  linkedin: '', // Add your profile URL if you have one.
+  github: 'https://github.com/Richard-Matt', // Example: https://github.com/your-username
+  linkedin: 'https://www.linkedin.com/in/richard-matt-jacob-007436330/', // Add your profile URL if you have one.
   resume: '', // Optional PDF URL. Leave empty until you have a final resume.
 };
 
@@ -30,6 +30,7 @@ export const skills = [
   { name: 'VS Code', note: 'Development environment' },
   { name: 'PyCharm', note: 'Development environment' },
   { name: 'LeetCode', note: 'Coding practice' },
+  { name: 'HTML', note: 'Web development' },
 ];
 
 export const softwareProjects = [
