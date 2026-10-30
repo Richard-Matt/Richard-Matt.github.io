@@ -171,24 +171,6 @@ function App() {
                 Areas I want to explore further include ESP32, Raspberry Pi, embedded programming and interactive interfaces. This is an area of curiosity and experimentation, not a list of finished hardware products.
               </p>
             </Reveal>
-            <Reveal className="hardware-specimen" delay={130}>
-              <div className="specimen-frame">
-                <div className="specimen-topline"><span>EXPERIMENT LOG</span><span>NO. 001</span></div>
-                <div className="circuit-art" aria-hidden="true">
-                  <svg viewBox="0 0 420 250" role="presentation">
-                    <g fill="none" stroke="currentColor" strokeWidth="1.3">
-                      <path d="M32 126H105V74H165M105 126V185H185M165 74H235V111H298M185 185H250V158H335" />
-                      <path d="M235 111V47H310M298 111H366V190H390" />
-                      <rect x="165" y="55" width="70" height="38" rx="3" />
-                      <rect x="185" y="165" width="65" height="40" rx="3" />
-                      <rect x="298" y="91" width="68" height="40" rx="3" />
-                      <circle cx="32" cy="126" r="4"/><circle cx="310" cy="47" r="4"/><circle cx="390" cy="190" r="4"/>
-                      <circle cx="105" cy="74" r="3"/><circle cx="105" cy="185" r="3"/><circle cx="335" cy="158" r="3"/>
-                      <path d="M178 68h42M178 78h26M198 177h38M198 188h24M311 104h40M311 116h25" opacity=".5"/>
-                    </g>
-                  </svg>
-                </div>
-            </Reveal>
           </div>
         </section>
 
